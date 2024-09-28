@@ -1,6 +1,7 @@
 # This file is maintained automatically by "terraform init".
 # Manual edits may be lost in future updates.
 
+
 provider "registry.terraform.io/hashicorp/aws" {
   version = "5.66.0"
   hashes = [
@@ -22,3 +23,5 @@ provider "registry.terraform.io/hashicorp/aws" {
     "zh:fbcd54e7d65806b0038fc8a0fbdc717e1284298ff66e22aac39dcc5a22cc99e5",
   ]
 }
+
+
